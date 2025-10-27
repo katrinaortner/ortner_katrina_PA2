@@ -2,7 +2,7 @@
 Katrina Ortner
 CITC 1300
 Programming Assignment 2
-Style.css — external stylesheet for three simple pages: sets page background, navigation styles, main/div/article/footer rules, and paragraph sizing.
+style.css — external stylesheet for three simple pages: sets page background, navigation styles, main/div/article/footer rules, and paragraph sizing.
 */
 
 :root{
@@ -132,4 +132,5 @@ a:focus, button:focus {
 /* Ensure lists in content look clean */
 ol {
   padding-left: 1.2rem;
+
 }
